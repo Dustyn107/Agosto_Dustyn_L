@@ -1,0 +1,13 @@
+<suite name="Testng - prueba_mailchimp">
+
+    <test name="Ejecucion de pruebas">
+
+        <classes>
+
+            <class name="EXAMEN_FINAL.TEST.prueba_mailchimp"/>
+
+        </classes>
+
+    </test>
+
+</suite>
